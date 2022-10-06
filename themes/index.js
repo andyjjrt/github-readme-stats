@@ -19,11 +19,11 @@ export const themes = {
     bg_color: "ffffff00",
   },
   dark: {
-    title_color: "fff",
-    icon_color: "79ff97",
-    text_color: "9f9f9f",
-    bg_color: "151515",
-    border_color: "151515",
+    title_color: "a6adba",
+    icon_color: "a6adba",
+    text_color: "a6adba",
+    bg_color: "1f242d",
+    border_color: "1f242d",
   },
   radical: {
     title_color: "fe428e",
