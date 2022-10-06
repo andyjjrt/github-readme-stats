@@ -23,6 +23,7 @@ export const themes = {
     icon_color: "79ff97",
     text_color: "9f9f9f",
     bg_color: "151515",
+    border_color: "151515",
   },
   radical: {
     title_color: "fe428e",
